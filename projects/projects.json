@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ML Model with Python",
+    "desc": "Implemented the ML Big data Model with Python with data preprocessing+visualization.",
+    "image": "proj1",
+    "category": "desktop",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Desktop Application",
+    "desc": "This (Hostel Wise) is linux desktop application to seek hostel in area.",
+    "image": "proj2",
+    "category": "desktop",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Vikram-Kumar-Parmar/Desktop-Application-Hostel-Wise-"
+    }
+  }
+]
